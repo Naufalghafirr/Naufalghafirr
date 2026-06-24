@@ -62,9 +62,9 @@ Small tools and automation scripts for productivity.
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Naufalghafirr&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naufalghafirr&layout=compact)
 
 ---
 
