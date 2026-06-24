@@ -13,15 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋 I'm Naufal
+# Hi there 👋 I'm Naufal Ghafir
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Mechanical+Design+%26+Programming;AutoCAD+%7C+Python+%7C+Automation;Building+Ideas+Into+Reality" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Software+Engineer;Mechanical+Design+Enthusiast;Building+Useful+Digital+Solutions;AutoCAD+%7C+Next.js+%7C+Laravel+%7C+Python" />
 
 <br>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="250"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="280">
 
 </div>
 
@@ -29,57 +29,86 @@ Here are some ideas to get you started:
 
 ## 🌿 About Me
 
-🔹 Mechanical Design & Programming Enthusiast
+Software Engineer and Mechanical Design Enthusiast passionate about building useful applications, automation tools, and engineering solutions.
 
-🔹 Passionate about 3D Modeling, Structural Design, and Automation
-
-🔹 Using AutoCAD for engineering and fabrication projects
-
-🔹 Learning software development and workflow automation
-
-🔹 Interested in creating practical engineering solutions
-
-🔹 Always exploring new technologies and better ways to build things
+* 💻 Experienced in Web Development and System Development
+* 🔧 Interested in Mechanical Design, CAD, and Automation
+* 📐 Using AutoCAD for engineering and fabrication projects
+* 🌱 Continuously learning modern technologies and software architecture
+* 🚀 Enjoy creating scalable and practical solutions
+* 🎯 Goal: Combining engineering and software to solve real-world problems
 
 ---
 
 ## 🛠 Tech Stack
 
-### Design & Engineering
+### Frontend
 
 <p>
-<img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white"/>
-<img src="https://img.shields.io/badge/3D%20Modeling-7AA2F7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DXF%20Design-89DCEB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </p>
 
-### Programming
+### Backend
 
 <p>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### CMS & Tools
+
+<p>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge"/>
+</p>
+
+### Soft Skills
+
+<p>
+<img src="https://img.shields.io/badge/Communication-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Teamwork-2196F3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-FF9800?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏗️ AutoCAD 3D Structure Project
+### 🏗️ 3D Structure Automation
 
-Designing fabrication-ready structural models and engineering drawings.
+Automation tool for generating and managing structural designs and engineering workflows.
 
 ### ⚙️ DXF Generator
 
-Parametric DXF generation for fabrication and manufacturing workflows.
+Parametric DXF generation for fabrication and manufacturing processes.
 
-### 🐍 Automation Utilities
+### 🌐 Web Applications
 
-Python-based automation tools to improve productivity and efficiency.
+Development of scalable web applications using Laravel, CodeIgniter, and Next.js.
+
+### 🤖 Automation Utilities
+
+Productivity tools and automation scripts using Python.
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -99,7 +128,7 @@ Python-based automation tools to improve productivity and efficiency.
 
 ---
 
-## 🌊 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -111,22 +140,25 @@ Python-based automation tools to improve productivity and efficiency.
 
 ## 📫 Connect With Me
 
-<p align="center">
-<a href="https://github.com/Naufalghafirr">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+<div align="center">
 
 <a href="mailto:naufalghafir123@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</p>
+
+<a href="https://github.com/Naufalghafirr">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### ✨ "Design. Build. Automate."
+### ✨ Design • Develop • Automate
 
-Thanks for visiting my profile 🤝
+*"Building useful solutions through engineering and technology."*
 
 </div>
+
